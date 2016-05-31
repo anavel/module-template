@@ -2,7 +2,7 @@ How to create an Anavel module
 -------
 **Anavel Foundation** is the backbone for an admin panel for Laravel applications. It aims to be minimalist and modular, and as a consecuence, as flexible as possible.
 
-An Anavel module uses and extends the **Anavel Foundation** pacakge. *anavel/foundation* is the package that your module must have.
+An Anavel module uses and extends the **Anavel Foundation** package. *anavel/foundation* is the dependency that your module must have.
 
 ## Basic Anavel scaffold
 ```
