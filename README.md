@@ -22,7 +22,7 @@ mkdir moduleName
 cd moduleName
 ```
 
-- Create the composer.json and add all the dependecies in the module directory
+- Create the composer.json and add all the dependencies in the module directory
 ```
 composer init --name=anavel/moduleName --author="Your name <your@email.com>" --description="The module description" -n
 composer require illuminate/support:5.1.* --no-update
