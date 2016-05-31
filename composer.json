@@ -1,0 +1,38 @@
+{
+  "name": "anavel/test",
+  "description": "A test module for Anavel",
+  "keywords": [
+    "laravel",
+    "anavel",
+    "admin",
+    "test",
+    "cms"
+  ],
+  "authors": [
+    {
+      "name": "Adrian P. Blunier",
+      "email": "adrian@anavallasuiza.com"
+    },
+    {
+      "name": "Eduardo Salguero",
+      "email": "eduardo@anavallasuiza.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.5.9",
+    "illuminate/support": "5.1.*",
+    "illuminate/translation": "5.1.*",
+    "anavel/foundation": "dev-master"
+  },
+  "require-dev": {
+  },
+  "autoload": {
+    "psr-4": {
+      "Anavel\\Test\\": "src/"
+    }
+  },
+  "autoload-dev": {
+
+  },
+  "minimum-stability": "stable"
+}
